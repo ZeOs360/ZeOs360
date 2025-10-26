@@ -1,6 +1,6 @@
 ## Hi, I'm ZeOs360 / jellykun 👋
 
-- I’ve been active on GitHub for a while, though most of my repositories remain private.
+- I’ve been active on GitHub for a while, though *now all of my repositories remain private.
 - For inquiries, you can reach me on Discord: jellykunn
 
 

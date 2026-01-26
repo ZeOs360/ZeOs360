@@ -20,6 +20,6 @@
 ## 🧑‍🍳 What I Build.
 - **Discord Bots** → Mostly fun-oriented bots, with larger-scale project experience  
 - **Web Development** → Frontend (HTML, CSS, JavaScript) and backend (Node.js APIs)  
-- **Modular APIs** → REST APIs, JSON-based services, reusable backend modules  
+- **Modular APIs** → REST APIs, JSON-based services, backend modules  
 - **Lua Scripting** → Game scripting (Roblox, FiveM, etc.)
 - **Game Development Experiments**
